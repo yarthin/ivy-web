@@ -96,7 +96,7 @@
         include('./include/js_lib.php')
     ?>
     <script src="js/fbphoto-api.js" defer></script>
-    <script src="js/faba.min.js" defer></script>
+    <script src="js/faba.js" defer></script>
 	<script>
 	$(document).ready(function() {
 		var options = '<option value="" selected>Bitte wählen</option>';

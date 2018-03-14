@@ -14,7 +14,7 @@
     <script src="js/swiper.jquery.min.js" defer></script>
     <script src="js/jquery.pagepiling.min.js" defer></script>
 
-    <script src="js/scripts.js" defer></script>
+    <script src="js/scripts-web.js" defer></script>
     <!-- script src="js/scripts-org.js" defer></script -->
     <script src="js/moment.min.js" defer></script>
     <script src="js/pikaday.min.js" defer></script>

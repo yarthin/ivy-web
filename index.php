@@ -205,7 +205,7 @@
     include('./include/js_lib.php')
 ?>
 <script src="js/fbintro-api.js" defer></script>    
-<script src="js/faba.min.js" defer></script>
+<script src="js/faba.js" defer></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/instafeed.js/1.4.1/instafeed.min.js"></script>
 <script src="js/insta.js" defer></script>
 <script src="js/home.js" defer></script>
